@@ -1,0 +1,15 @@
+D:\JG WorkFile\Programação\C#\WPF\Tutorial de interface de usuário moderna e plana profissional\TutorialWPF\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\JG WorkFile\Programação\C#\WPF\Tutorial de interface de usuário moderna e plana profissional\TutorialWPF\WpfApp1\bin\Debug\WpfApp1.exe
+D:\JG WorkFile\Programação\C#\WPF\Tutorial de interface de usuário moderna e plana profissional\TutorialWPF\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\JG WorkFile\Programação\C#\WPF\Tutorial de interface de usuário moderna e plana profissional\TutorialWPF\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\JG WorkFile\Programação\C#\WPF\Tutorial de interface de usuário moderna e plana profissional\TutorialWPF\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\JG WorkFile\Programação\C#\WPF\Tutorial de interface de usuário moderna e plana profissional\TutorialWPF\WpfApp1\obj\Debug\App.g.cs
+D:\JG WorkFile\Programação\C#\WPF\Tutorial de interface de usuário moderna e plana profissional\TutorialWPF\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\JG WorkFile\Programação\C#\WPF\Tutorial de interface de usuário moderna e plana profissional\TutorialWPF\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\JG WorkFile\Programação\C#\WPF\Tutorial de interface de usuário moderna e plana profissional\TutorialWPF\WpfApp1\obj\Debug\MainWindow.baml
+D:\JG WorkFile\Programação\C#\WPF\Tutorial de interface de usuário moderna e plana profissional\TutorialWPF\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\JG WorkFile\Programação\C#\WPF\Tutorial de interface de usuário moderna e plana profissional\TutorialWPF\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\JG WorkFile\Programação\C#\WPF\Tutorial de interface de usuário moderna e plana profissional\TutorialWPF\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\JG WorkFile\Programação\C#\WPF\Tutorial de interface de usuário moderna e plana profissional\TutorialWPF\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\JG WorkFile\Programação\C#\WPF\Tutorial de interface de usuário moderna e plana profissional\TutorialWPF\WpfApp1\obj\Debug\WpfApp1.exe
+D:\JG WorkFile\Programação\C#\WPF\Tutorial de interface de usuário moderna e plana profissional\TutorialWPF\WpfApp1\obj\Debug\WpfApp1.pdb
